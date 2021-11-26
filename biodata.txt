@@ -1,0 +1,7 @@
+Nama: Akbar Tri Andika
+Kelas:IX rpl2
+almat:jln rancamanyar
+umur:16 thn
+sekolah:smk assalaam
+
+note : saya sedang belajar awalan github
